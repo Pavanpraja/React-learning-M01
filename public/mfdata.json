@@ -1,0 +1,84 @@
+{
+    "peoples":[
+        {
+            "name": "Pavan",
+            "age": "20",
+            "gender": "male"
+        },
+        {
+            "name": "Naina",
+            "age": "20",
+            "gender": "female"
+        },
+        {
+            "name": "Siddharth",
+            "age": "20",
+            "gender": "male"
+        },
+        {
+            "name": "Anjali",
+            "age": "20",
+            "gender": "female"
+        },
+        {
+            "name": "Priyanka",
+            "age": "20",
+            "gender": "female"
+        },
+        {
+            "name": "Ravi",
+            "age": "20",
+            "gender": "male"
+        },
+        {
+            "name": "rajni",
+            "age": "20",
+            "gender": "female"
+        },
+        {
+            "name": "Ankit",
+            "age": "20",
+            "gender": "male"
+        },
+        {
+            "name": "offreen",
+            "age": "20",
+            "gender": "female"
+        },
+        {
+            "name": "yash",
+            "age": "20",
+            "gender": "male"
+        },
+        {
+            "name": "Priyanshu",
+            "age": "20",
+            "gender": "female"
+        },
+        {
+            "name": "rachit",
+            "age": "20",
+            "gender": "male"
+        },
+        {
+            "name": "pratima",
+            "age": "20",
+            "gender": "female"
+        },
+        {
+            "name": "alok",
+            "age": "20",
+            "gender": "male"
+        },
+        {
+            "name": "avinash",
+            "age": "20",
+            "gender": "male"
+        },
+        {
+            "name": "Anjali",
+            "age": "20",
+            "gender": "female"
+        }
+    ]
+}
